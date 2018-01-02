@@ -1,0 +1,51 @@
+{
+   "difficulty": 1,
+   "dynamicBackground": false,
+   "fullscreen": true,
+   "gametype": "arena",
+   "level": 2,
+   "leveldesc": "Tutorial Part 2: \nAll about your abilities!",
+   "local_game": {
+      "ai": 1,
+      "difficulty": 10.0,
+      "players": 1,
+      "startlives": 5,
+      "teams": 2
+   },
+   "mvol": 3,
+   "player1": {
+      "down": 115,
+      "fire": 32,
+      "left": 97,
+      "right": 100,
+      "swapuber": 304,
+      "up": 119
+   },
+   "player2": {
+      "down": "JA02+",
+      "fire": "J00",
+      "left": "JA00-",
+      "right": "JA00+",
+      "swapuber": "J01",
+      "up": "JA02-"
+   },
+   "player3": {
+      "down": 274,
+      "fire": 271,
+      "left": 276,
+      "right": 275,
+      "swapuber": 266,
+      "up": 273
+   },
+   "player4": {
+      "down": 104,
+      "fire": 47,
+      "left": 103,
+      "right": 106,
+      "swapuber": 39,
+      "up": 117
+   },
+   "sheight": 980,
+   "svol": 3,
+   "swidth": 1680
+}
