@@ -13,4 +13,4 @@ Install:
 Running:
 * Run python3 ./main.py (in the directory of the game)
 * or
-* Run python2 ./main.py (in the directory of the game)
+* Run python ./main.py (in the directory of the game)
